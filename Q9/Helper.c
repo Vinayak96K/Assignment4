@@ -1,7 +1,7 @@
 #include"MyHeader.h"
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//  Function Name: EvenDigit
+//  Function Name: OddDigit
 //  Description: Accepts one number and returns the aaddition of all the odd digits from the number.
 //  Input: LONG[IN]
 //  Output: UINT[OUT]
